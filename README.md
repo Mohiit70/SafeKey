@@ -39,6 +39,7 @@ This project was developed as a submission for "Hacks for Hackers" an MLH-affili
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
+6.  Create a user login system to securely store encrypted passwords in the backend.
 
 Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md) when contributing.
 
