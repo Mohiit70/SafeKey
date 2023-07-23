@@ -4,7 +4,9 @@
 
 SafeKey is a secure and user-friendly Password Generator web application that allows users to generate strong and unique passwords for their online accounts.
 
-[Project Thumbnail]()
+<p align="center">
+  <img src="graphic designer.png" alt="Animated GIF">
+</p>
 
 🚀 [Live Demo](https://safe-key-sigma.vercel.app/)
 
